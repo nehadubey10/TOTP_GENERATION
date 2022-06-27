@@ -1,0 +1,6 @@
+https://api-loyalty.otherlink.io?user=f5f124bb-f61b-11ec-8f37-8c164599e36d?passcode=970590
+Details :
+*970590
+*micropythonuuid : f5f124bb-f61b-11ec-8f37-8c164599e36d
+*  
+* 
